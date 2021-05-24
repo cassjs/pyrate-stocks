@@ -40,6 +40,8 @@ This app was created by the first cohort of the Python Pyrates Project, hosted b
 * [![Flask](https://img.shields.io/badge/flask-1.1.2-blue.svg)](https://flask.palletsprojects.com/en/1.1.x/installation/)  
 * [![Bootstrap](https://img.shields.io/badge/bootstrap-v5.0-blue)](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
+## **Preview:**
+![](app/static/pyratestocks-demo.png)
 
 ## **Getting Started**
 
