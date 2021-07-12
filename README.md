@@ -47,7 +47,7 @@ This app was created by the first cohort of the Python Pyrates Project, hosted b
 
 ### **Clone repository**
 
-    $ git clone https://github.com/cassjs/pyrate-stocks.git
+    $ git clone git clone https://github.com/PDXPythonPirates/pyrate-stocks.git
 
 * Navigate to the project folder
 
