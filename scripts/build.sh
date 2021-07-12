@@ -1,4 +1,4 @@
 #!/bin/bash
 
 # Build Docker image
-docker build -t pyrate-stocks .
+docker build -t pyratestocks.azurecr.io/pyrate-stocks .
